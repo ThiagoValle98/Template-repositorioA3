@@ -46,7 +46,8 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 # Autores
 
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+Thiago Valle - https://github.com/ThiagoValle98
+
 
 # Licença
 
