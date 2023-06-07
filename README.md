@@ -1,11 +1,11 @@
-# Título do Projeto
+# Avaliação A3 Projeto Dual AutoPass
 
 
 ![Capa do Projeto](https://picsum.photos/850/280)
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+Este projeto consiste em um caso de estudo de usabilidade e renovação das interfaces gráficas dos sistemas de ATM da empresa AutoPass, evoluimos o projeto desde a documentação ao sistema completamente funcional em código escrito em html css e javscript e as avaliações do sistema segundo as heurísticas de Nielsen.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -25,12 +25,7 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+
 
 # Tecnologias Usadas
 
@@ -40,13 +35,17 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 - [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-# Contribuição
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Autores
 
-Thiago Valle - https://github.com/ThiagoValle98
+ACIR JOSÉ DA SILVA JÚNIOR - RA 321221546
+ALLAN AUGUSTO VENTURA – RA 322125047
+ALMO CONTIM - RA 322118509
+MARCUS GONÇALVES EUCLYDES BORGES - RA 32120352
+THIAGO HENRIQUE FERNANDES VALLE - RA 321219995
+YAGO ANGELINI CANDIDO - RA 125111369950
+
 
 
 # Licença
