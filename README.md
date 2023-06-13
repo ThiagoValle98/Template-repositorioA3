@@ -47,7 +47,10 @@ https://github.com/ThiagoValle98/Template-repositorioA3/blob/ba372cff2afe33efc30
 
 
 # Protótipo hi-fi
-
+* https://github.com/ThiagoValle98/Template-repositorioA3/blob/6f86b488875c68d2a7358c15609b169d764d4167/Prototipos%20hifi%20QRCODE.pdf
+* https://github.com/ThiagoValle98/Template-repositorioA3/blob/6f86b488875c68d2a7358c15609b169d764d4167/Qr%20code%20fluxo%202%20.pdf
+* https://github.com/ThiagoValle98/Template-repositorioA3/blob/6f86b488875c68d2a7358c15609b169d764d4167/bilhete%20unico%20hifi.pdf
+* https://github.com/ThiagoValle98/Template-repositorioA3/blob/6f86b488875c68d2a7358c15609b169d764d4167/cartao%20top%20hifi.pdf
 
 # Avaliação
 * [A3 Avaliação das heuristicas.pdf](https://github.com/ThiagoValle98/Template-repositorioA3/blob/f28e9275f981abc752ba6ee5bfca64035c603301/A3%20Avalia%C3%A7%C3%A3o%20das%20heuristicas.pdf)
