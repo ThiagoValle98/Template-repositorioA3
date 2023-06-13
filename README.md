@@ -40,6 +40,9 @@ https://github.com/ThiagoValle98/Template-repositorioA3/blob/ba372cff2afe33efc30
 
 
 # Protótipo lo-fi
+* https://github.com/ThiagoValle98/Template-repositorioA3/blob/4fecfb630b98312affd0bec0bb7e33bf4821a7d1/Prototipo_1_BILHETE.CARTAO_lo.fi_R01%20(1).pdf
+* https://github.com/ThiagoValle98/Template-repositorioA3/blob/4fecfb630b98312affd0bec0bb7e33bf4821a7d1/Prototipo_3_QRCODE_lo.fi_R01.pdf
+
 
 
 # Protótipo hi-fi
