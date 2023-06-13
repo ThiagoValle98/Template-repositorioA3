@@ -1,7 +1,7 @@
 # Avaliação A3 Projeto Dual AutoPass
 
 
-![Capa do Projeto](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.autopass.com.br%2Fwp-content%2Fuploads%2F2021%2F05%2Flogo_provisorio.svg&tbnid=Ou3zQbcdFz9ojM&vet=12ahUKEwj9jr3jp8H_AhXnpycCHeA_BKEQMygAegUIARC4AQ..i&imgrefurl=https%3A%2F%2Fwww.autopass.com.br%2F&docid=qYRHiQHHaaeHbM&w=800&h=136&q=autopass&ved=2ahUKEwj9jr3jp8H_AhXnpycCHeA_BKEQMygAegUIARC4AQ)
+![Capa do Projeto]([https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.autopass.com.br%2Fwp-content%2Fuploads%2F2021%2F05%2Flogo_provisorio.svg&tbnid=Ou3zQbcdFz9ojM&vet=12ahUKEwj9jr3jp8H_AhXnpycCHeA_BKEQMygAegUIARC4AQ..i&imgrefurl=https%3A%2F%2Fwww.autopass.com.br%2F&docid=qYRHiQHHaaeHbM&w=800&h=136&q=autopass&ved=2ahUKEwj9jr3jp8H_AhXnpycCHeA_BKEQMygAegUIARC4AQ](https://cdn-www.infobip.com/wp-content/uploads/2021/10/14144438/autopass-logo-1.webp))
 
 # Sobre o Projeto
 
