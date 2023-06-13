@@ -13,38 +13,65 @@ Este projeto consiste em um caso de estudo de usabilidade e renovação das inte
 
 # Índice/Sumário
 
-* [Sobre](#sobre-o-projeto)
-* [Sumário](#índice/sumário)
-* [Requisitos Funcionais](#requisitos-funcionais)
-* [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
-* [Autores](#autores)
-* [Licença](#licença)
-* [Agradecimentos](#agradecimentos)
+* [Sobre]
+* [Sumário]
+* [Fluxo de Usuarios]
+* [Personas e Cenários]
+* [Prtótipo lo-fi]
+* [Protótipo hi-fi]
+* [Avaliação]
+* [Implementação]
+* [Apresentação]
+* [Autores]
+* [Licença]
+* [Agradecimentos]
 
 
-# Requisitos Funcionais 
+# Fluxo de Usuários
 
 
+
+# Personas e Cenários
+
+* https://a3squadsix.xtensio.com/u4a87id6
+* https://a3squadsix.xtensio.com/k3wd6nh5
+* https://a3squadsix.xtensio.com/55zdliph
+* https://a3squadsix.xtensio.com/t2et1en2
+
+
+# Protótipo lo-fi
+
+
+# Protótipo hi-fi
+
+
+# Avaliação
+* [A3 Avaliação das heuristicas.pdf](https://github.com/ThiagoValle98/Template-repositorioA3/blob/f28e9275f981abc752ba6ee5bfca64035c603301/A3%20Avalia%C3%A7%C3%A3o%20das%20heuristicas.pdf)
+* https://github.com/ThiagoValle98/Template-repositorioA3/blob/f28e9275f981abc752ba6ee5bfca64035c603301/Avalia%C3%A7%C3%B5es%20A3.pdf
+
+# Implementação
+* https://github.com/ThiagoValle98/Template-repositorioA3/blob/f28e9275f981abc752ba6ee5bfca64035c603301/prototipo.rar
+
+# Apresentação
+
+* https://github.com/ThiagoValle98/Template-repositorioA3/blob/f28e9275f981abc752ba6ee5bfca64035c603301/Trabalho%20A3%20-%20video%20AUTOPASS.docx
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
+- [Quasar](https://quasar.dev)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 
 
 
 # Autores
 
-ACIR JOSÉ DA SILVA JÚNIOR - RA 321221546
-ALLAN AUGUSTO VENTURA – RA 322125047
-ALMO CONTIM - RA 322118509
-MARCUS GONÇALVES EUCLYDES BORGES - RA 32120352
-THIAGO HENRIQUE FERNANDES VALLE - RA 321219995
-YAGO ANGELINI CANDIDO - RA 125111369950
+* ACIR JOSÉ DA SILVA JÚNIOR - RA 321221546
+* ALLAN AUGUSTO VENTURA – RA 322125047
+* ALMO CONTIM - RA 322118509
+* MARCUS GONÇALVES EUCLYDES BORGES - RA 32120352
+* THIAGO HENRIQUE FERNANDES VALLE - RA 321219995
+* YAGO ANGELINI CANDIDO - RA 125111369950
 
 
 
@@ -54,4 +81,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
+Agradecimento a todo o apoio da AutoPass e dos professores Jean Paul, e Wilson Shirado para a realização deste projeto 
