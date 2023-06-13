@@ -54,7 +54,7 @@ Este projeto consiste em um caso de estudo de usabilidade e renovação das inte
 
 # Apresentação
 
-* https://github.com/ThiagoValle98/Template-repositorioA3/blob/f28e9275f981abc752ba6ee5bfca64035c603301/Trabalho%20A3%20-%20video%20AUTOPASS.docx
+* https://www.awesomescreenshot.com/video/18055995?key=f919708e1158fe2f17dee3fc99cb0121
 
 # Tecnologias Usadas
 
