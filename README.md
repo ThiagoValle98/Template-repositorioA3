@@ -28,7 +28,7 @@ Este projeto consiste em um caso de estudo de usabilidade e renovação das inte
 
 
 # Fluxo de Usuários
-
+https://github.com/ThiagoValle98/Template-repositorioA3/blob/ba372cff2afe33efc30984618129dfd674220672/Fluxograma%20Sistema.jpeg
 
 
 # Personas e Cenários
